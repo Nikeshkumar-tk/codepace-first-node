@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "codepace-first-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikeshkumar-tk/codepace-first-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikeshkumar-tk/codepace-first-node/issues"
+  },
+  "homepage": "https://github.com/Nikeshkumar-tk/codepace-first-node#readme",
+  "description": ""
+}
